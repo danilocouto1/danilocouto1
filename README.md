@@ -1,5 +1,9 @@
-# I'm Danilo Couto. Welcome to my portfolio! :trybe:
+# I'm Danilo Couto. Welcome to my portfolio!
 #### *a Software Development Student*
+
+##### FOLLOW ME ON
+[![linkedIn](https://camo.githubusercontent.com/f2e9a82be49960ef542864b6340446702554f4f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c6169732d67757267656c2f)](https://www.linkedin.com/in/danilocoutopsantos/)
+
 # TRYBE :rocket:
 
 *Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job.*
