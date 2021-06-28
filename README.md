@@ -3,12 +3,89 @@
 ***Open to part-time job opportunities***
 
 This portfolio related to projects and activities developed by the person Danilo Couto, currently a student at the [TRYBE](https://www.betrybe.com/) Progamação school of web development with the focus on becoming a fullstack web programmer.
+- 👨‍💻 My projects can be seen in code by repositories **<a href="https://github.com/danilocouto1?tab=repositories" target="_blank">aqui.</a>**
+- 📫 Contact email: **dansantosalfa@gmail.com** && **dansantos45@hotmail.com**
 
-##### FOLLOW ME ON
-[![linkedIn](https://camo.githubusercontent.com/f2e9a82be49960ef542864b6340446702554f4f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c6169732d67757267656c2f)](https://www.linkedin.com/in/danilocoutopsantos/)
+<h3 align="left">Connect with me:</h3>
+<br>
+<p align="center">
+    <a href=https://www.linkedin.com/in/danilocoutopsantos/ target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    </a>
+    <a href=https://www.instagram.com/danilo.cout/?hl=pt-br target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 
-# TRYBE :rocket:
+<h3 align="left">Languages and Tools:</h3>
+<br>
+<p align="center">
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://bulma.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://heroku.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    </a> 
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://postman.com" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a> 
+</p>
+  
+ # TRYBE :rocket:
+- 🌱 Currently studying and improving hard and soft-skills at **<a href="https://www.betrybe.com/" target="_blank">Trybe.</a>**
 
+- :books: With the formation of <strong>Front-end and Back-end completed,</strong> today my main staks are:
+     - Automated Testing: <strong>Jest</strong> and <strong>React Testing Library (RTL);</strong>
+     - Front-end libraries: <strong>React.JS, Redux, Hooks</strong> and <strong>ContextAPI;</strong>
+     - Databases: <strong>MySQL (SQL)</strong> and <strong>MongoDB (NoSQL);</strong>
+     - Frameworks/Back-end Library: <strong>NodeJS, Express, ORM: Sequelize;</strong>
+     - Deployment: <strong>Heroku, Vercel, PM2;</strong>
+     - Agile Methodologies - <strong>Scrum</strong> and <strong>Kanban;</strong>
+  
 *Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job.*
 
 The program has more than *1500 hours* of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
@@ -464,3 +541,18 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   </details>
 </details>
+  <br>
+<h3 align="left">Status GitHub:</h3>
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilocouto1&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danilocouto1" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilocouto1&show_icons=true&theme=onedark&locale=en" alt="danilocouto1" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilocouto1&theme=onedark" alt="danilocouto1" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=danilocouto1&theme=onedark&row=2&column=3&no-frame=true&margin-h=15&margin-w=15" alt="danilocouto1" />
+</p>
+
