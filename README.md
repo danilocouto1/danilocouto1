@@ -1,5 +1,5 @@
 # I'm Danilo Couto. Welcome to my portfolio!
-#### *a Software Development Student*
+#### *a Software Development Web*
 ***Open to part-time job opportunities***
 
 This portfolio related to projects and activities developed by the person Danilo Couto, currently a student at the [TRYBE](https://www.betrybe.com/) Progamação school of web development with the focus on becoming a fullstack web programmer.
