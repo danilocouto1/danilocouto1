@@ -2,7 +2,7 @@
 #### *a Software Development Web*
 ***Open to part-time job opportunities***
 
-This portfolio related to projects and activities developed by the person Danilo Couto, currently a student at the [TRYBE](https://www.betrybe.com/) Progamação school of web development with the focus on becoming a fullstack web programmer.
+This portfolio related to projects and activities developed by the person Danilo Couto, currently a student at the [TRYBE](https://www.betrybe.com/) Programação school of web development with the focus on becoming a fullstack web programmer.
 - 👨‍💻 My projects can be seen in code by repositories **<a href="https://github.com/danilocouto1?tab=repositories" target="_blank">aqui.</a>**
 - 📫 Contact email: **dansantosalfa@gmail.com** && **dansantos45@hotmail.com**
 
