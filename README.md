@@ -1,8 +1,7 @@
 # I'm Danilo Couto. Welcome to my portfolio!
 #### *a Software Development Web*
-***Open to part-time job opportunities***
 
-This portfolio related to projects and activities developed by the person Danilo Couto, currently a student at the [TRYBE](https://www.betrybe.com/) Programação school of web development with the focus on becoming a fullstack web programmer.
+This portfolio refers to projects and personal activities developed by Danilo Couto, currently Junior Developer at [CEDRO](https://www.cedrotech.com/). Formed by [TRYBE](https://www.betrybe.com/) school of web development fullstack.
 - 👨‍💻 My projects can be seen in code by repositories **<a href="https://github.com/danilocouto1?tab=repositories" target="_blank">aqui.</a>**
 - 📫 Contact email: **dansantosalfa@gmail.com** && **dansantos45@hotmail.com**
 
@@ -74,8 +73,12 @@ This portfolio related to projects and activities developed by the person Danilo
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a> 
 </p>
-  
- # TRYBE :rocket:
+
+
+  # TRYBE :rocket:
+  <details>
+  <summary> **- ABOUT MORE** </summary>
+ 
 - 🌱 Currently studying and improving hard and soft-skills at **<a href="https://www.betrybe.com/" target="_blank">Trybe.</a>**
 
 - :books: With the formation of <strong>Front-end and Back-end completed,</strong> today my main staks are:
@@ -275,12 +278,12 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 16: React</summary>
 
-  > - [ ] 16-1: *Introduction to Redux*
-  > - [ ] 16-2: *React with Redux - Part 1*
-  > - [ ] 16-3: *React with Redux - Practice*
-  > - [ ] 16-4: *React with Redux - Part 2*
-  > - [ ] 16-5: *Synchronous tests with React-Redux*
-  > - [ ] 16-6: *Project - Table with data filters*
+  > - [x] 16-1: *Introduction to Redux*
+  > - [x] 16-2: *React with Redux - Part 1*
+  > - [x]16-3: *React with Redux - Practice*
+  > - [x] 16-4: *React with Redux - Part 2*
+  > - [x] 16-5: *Synchronous tests with React-Redux*
+  > - [x] 16-6: *Project - Table with data filters*
 
   </details>
 
@@ -288,7 +291,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 17: React</summary>
 
-  > - [ ] 17-1: *Project - Trivia Game*
+  > - [x] 17-1: *Project - Trivia Game*
 
   </details>
 
@@ -296,10 +299,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 18: React & Redux</summary>
 
-    > - [ ] 18-1: *React Context API*
-    > - [ ] 18-2: *React Hooks - useState and useContext*
-    > - [ ] 18-3: *React Hooks - useEffect and custom Hooks*
-    > - [ ] 18-4: *Project - StarWars Datatable with Context API and Hooks*
+    > - [x] 18-1: *React Context API*
+    > - [x] 18-2: *React Hooks - useState and useContext*
+    > - [x] 18-3: *React Hooks - useEffect and custom Hooks*
+    > - [x] 18-4: *Project - StarWars Datatable with Context API and Hooks*
 
   </details>
 
@@ -307,7 +310,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 19: Final Front-end Project</summary>
 
-  > - [ ] 19-1: *Project - Recipe App ​*
+  > - [x] 19-1: *Project - Recipe App ​*
 
   </details>
 ​</details>
@@ -320,13 +323,13 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 20: Introduction - Relational Databases</summary>
 
-  > - [ ] 20-1: *Introduction - Back-end*
-  > - [ ] 20-1: *Introduction - Relational databases*
-  > - [ ] 20-1: *SQL database*
-  > - [ ] 20-2: *Finding data in a database*
-  > - [ ] 20-3: *Filtering data specifically*
-  > - [ ] 20-4: *Manipulating tables*
-  > - [ ] 20-5: *Project - All For One*
+  > - [x] 20-1: *Introduction - Back-end*
+  > - [x] 20-1: *Introduction - Relational databases*
+  > - [x] 20-1: *SQL database*
+  > - [x] 20-2: *Finding data in a database*
+  > - [x] 20-3: *Filtering data specifically*
+  > - [x] 20-4: *Manipulating tables*
+  > - [x] 20-5: *Project - All For One*
 
   </details>
 
@@ -334,10 +337,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 21: Relational Databases</summary>
 
-  > - [ ] 21-1: *Most used functions in SQL
-  > - [ ] 21-2: *Uncomplicating JOINs and UNIONs*
-  > - [ ] 21-3: *Stored Routines & Subqueries*
-  > - [ ] 21-4: *Project - Vocabulary Booster*
+  > - [x] 21-1: *Most used functions in SQL
+  > - [x] 21-2: *Uncomplicating JOINs and UNIONs*
+  > - [x] 21-3: *Stored Routines & Subqueries*
+  > - [x] 21-4: *Project - Vocabulary Booster*
 
   </details>
 
@@ -345,10 +348,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 22: Relational Databases</summary>
 
-  > - [ ] 22-1: *Transforming ideas into a database model*
-  > - [ ] 22-2: *Normalization, Normal Shapes and Dumps*
-  > - [ ] 22-3: *Transforming ideas into a database model - Part 2*
-  > - [ ] 21-4: *Project - One For All*
+  > - [x] 22-1: *Transforming ideas into a database model*
+  > - [x] 22-2: *Normalization, Normal Shapes and Dumps*
+  > - [x] 22-3: *Transforming ideas into a database model - Part 2*
+  > - [x] 21-4: *Project - One For All*
 
   </details>
 
@@ -356,10 +359,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 23: Introduction - NoSQL</summary>
 
-  > - [ ] 23-1: *Introduction - NoSQL*
-  > - [ ] 23-2: *MongoDB - Introduction*
-  > - [ ] 23-3: *Filter Operators*
-  > - [ ] 23-4: *Project - Data Flights*
+  > - [x] 23-1: *Introduction - NoSQL*
+  > - [x] 23-2: *MongoDB - Introduction*
+  > - [x] 23-3: *Filter Operators*
+  > - [x] 23-4: *Project - Data Flights*
 
   </details>
 
@@ -367,10 +370,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 24: Updates</summary>
 
-  > - [ ] 24-1: *Simple Updates*
-  > - [ ] 24-2: *Complex Updates - Arrays - Part 1*
-  > - [ ] 24-3: *Complex Updates - Arrays - Part 2*
-  > - [ ] 24-4: *Project - Commerce*
+  > - [x] 24-1: *Simple Updates*
+  > - [x] 24-2: *Complex Updates - Arrays - Part 1*
+  > - [x] 24-3: *Complex Updates - Arrays - Part 2*
+  > - [x] 24-4: *Project - Commerce*
 
   </details>
 
@@ -378,9 +381,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 25: Aggregation Framework</summary>
 
-  > - [ ] 25-1: *Aggregation Framework - Part 1*
-  > - [ ] 25-2: *Aggregation Framework - Part 2*
-  > - [ ] 24-3: *Project - Aggregations*
+  > - [x] 25-1: *Aggregation Framework - Part 1*
+  > - [x] 25-2: *Aggregation Framework - Part 2*
+  > - [x] 24-3: *Project - Aggregations*
 
   </details>
 
@@ -541,6 +544,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   </details>
 </details>
+</details>
   <br>
 <h3 align="left">Status GitHub:</h3>
 <br>
@@ -555,4 +559,3 @@ The program has more than *1500 hours* of classroom and online classes and cover
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danilocouto1&theme=onedark&row=2&column=3&no-frame=true&margin-h=15&margin-w=15" alt="danilocouto1" />
 </p>
-
