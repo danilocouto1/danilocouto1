@@ -77,7 +77,7 @@ This portfolio refers to projects and personal activities developed by Danilo Co
 
   # TRYBE :rocket:
   <details>
-  <summary> **- ABOUT MORE** </summary>
+  <summary>< ABOUT MORE ></summary>
  
 - 🌱 Currently studying and improving hard and soft-skills at **<a href="https://www.betrybe.com/" target="_blank">Trybe.</a>**
 
@@ -280,7 +280,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 16-1: *Introduction to Redux*
   > - [x] 16-2: *React with Redux - Part 1*
-  > - [x]16-3: *React with Redux - Practice*
+  > - [x] 16-3: *React with Redux - Practice*
   > - [x] 16-4: *React with Redux - Part 2*
   > - [x] 16-5: *Synchronous tests with React-Redux*
   > - [x] 16-6: *Project - Table with data filters*
@@ -299,10 +299,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 18: React & Redux</summary>
 
-    > - [x] 18-1: *React Context API*
-    > - [x] 18-2: *React Hooks - useState and useContext*
-    > - [x] 18-3: *React Hooks - useEffect and custom Hooks*
-    > - [x] 18-4: *Project - StarWars Datatable with Context API and Hooks*
+  > - [x] 18-1: *React Context API*
+  > - [x] 18-2: *React Hooks - useState and useContext*
+  > - [x] 18-3: *React Hooks - useEffect and custom Hooks*
+  > - [x] 18-4: *Project - StarWars Datatable with Context API and Hooks*
 
   </details>
 
@@ -391,14 +391,14 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 26: NodeJS</summary>
 
-  > - [ ] 26-1: *What It Is - NodeJS*
-  > - [ ] 26-1: *NodeJS - Introduction*
-  > - [ ] 26-2: *NodeJS - Asynchronous Flow*
-  > - [ ] 26-3: *NodeJS - Architecture*
-  > - [ ] 26-4: *Express: HTTP with Node.js*
-  > - [ ] 26-5: *Practicing Express*
-  > - [ ] 26-6: *Software Architecture - Introduction to MVC*
-  > - [ ] 26-7: *Project - Cookmaster*
+  > - [x] 26-1: *What It Is - NodeJS*
+  > - [x] 26-1: *NodeJS - Introduction*
+  > - [x] 26-2: *NodeJS - Asynchronous Flow*
+  > - [x] 26-3: *NodeJS - Architecture*
+  > - [x] 26-4: *Express: HTTP with Node.js*
+  > - [x] 26-5: *Practicing Express*
+  > - [x] 26-6: *Software Architecture - Introduction to MVC*
+  > - [x] 26-7: *Project - Cookmaster*
 
   </details>
 
@@ -406,9 +406,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 27: Software Architecture</summary>
 
-  > - [ ] 27-1: *Software Architecture - Service Layer*
-  > - [ ] 27-2: *Web Architecture - Rest & Restful*
-  > - [ ] 27-3: *Project - Store Manager*
+  > - [x] 27-1: *Software Architecture - Service Layer*
+  > - [x] 27-2: *Web Architecture - Rest & Restful*
+  > - [x] 27-3: *Project - Store Manager*
 
   </details>
 
@@ -437,7 +437,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 30: Project - Trybeer</summary>
 
-    > - [ ] 30-1: *Project - Trybeer*
+   > - [ ] 30-1: *Project - Trybeer*
 
   </details>
 
