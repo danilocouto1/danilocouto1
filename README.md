@@ -416,9 +416,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 28: Node - JSON Web Token</summary>
 
-  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)*
-  > - [ ] 28-2: *NodeJS - Upload files with Multer*
-  > - [ ] 28-3: *Project - Cookmaster version 2 ​*
+  > - [x] 28-1: *NodeJS - JWT - (JSON Web Token)*
+  > - [x] 28-2: *NodeJS - Upload files with Multer*
+  > - [x] 28-3: *Project - Cookmaster version 2 ​*
 
   </details>
 
@@ -426,10 +426,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 29: Introduction - Deploy</summary>
 
-  > - [ ] 29-1: *Introduction - Deploy*
-  > - [ ] 29-1: *Infrastructure - Deploy with Heroku*
-  > - [ ] 29-2: *Deploy - Process Managers*
-  > - [ ] 29-3: *Project - Stranger Things*
+  > - [x] 29-1: *Introduction - Deploy*
+  > - [x] 29-1: *Infrastructure - Deploy with Heroku*
+  > - [x] 29-2: *Deploy - Process Managers*
+  > - [x] 29-3: *Project - Stranger Things*
 
   </details>
 
@@ -437,7 +437,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 30: Project - Trybeer</summary>
 
-   > - [ ] 30-1: *Project - Trybeer*
+   > - [x] 30-1: *Project - Trybeer*
 
   </details>
 
@@ -445,11 +445,11 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 31: Architecture and Tests</summary>
 
-  > - [ ] 31-1: *Architecture - SOLID Principles*
-  > - [ ] 31-2: *ORM - Interface between application and database*
-  > - [ ] 31-3: *Software Architecture - DDD*
-  > - [ ] 31-4: *Good practices writing tests*
-  > - [ ] 31-5: *Project - Blogs API*
+  > - [x] 31-1: *Architecture - SOLID Principles*
+  > - [x] 31-2: *ORM - Interface between application and database*
+  > - [x] 31-3: *Software Architecture - DDD*
+  > - [x] 31-4: *Good practices writing tests*
+  > - [x] 31-5: *Project - Blogs API*
 
   </details>
 
@@ -457,9 +457,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 32: Sockets</summary>
 
-  > - [ ] 32-1: *Sockets - TCP/UDP & NET*
-  > - [ ] 32-2: *Sockets - Socket.io*
-  > - [ ] 32-3: *Project - Webchat*
+  > - [x] 32-1: *Sockets - TCP/UDP & NET*
+  > - [x] 32-2: *Sockets - Socket.io*
+  > - [x] 32-3: *Project - Webchat*
 
   </details>
 
@@ -467,7 +467,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 33: Project - Trybeer v2</summary>
 
-  > - [ ] 33-1: *Project - Trybeer v2*
+  > - [x] 33-1: *Project - Trybeer v2*
 
   </details>
 </details>
@@ -480,10 +480,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 34: Introduction - Computer Science</summary>
 
-  > - [ ] 34-1: *Introduction - Computer Science*
-  > - [ ] 34-2: *Computers Architecture*
-  > - [ ] 34-3: *Computers networks, tools and security*
-  > - [ ] 34-4: *Project - Exploring protocols*
+  > - [x] 34-1: *Introduction - Computer Science*
+  > - [x] 34-2: *Computers Architecture*
+  > - [x] 34-3: *Computers networks, tools and security*
+  > - [x] 34-4: *Project - Exploring protocols*
 
   </details>
 
@@ -491,11 +491,11 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 35: Python</summary>
 
-  > - [ ] 35-1: *Learning Python*
-  > - [ ] 35-2: *Tests and Exceptions*
-  > - [ ] 35-3: *Data Input and Output*
-  > - [ ] 35-4: *Data Scraping*
-  > - [ ] 35-5: *Project - Tech news*
+  > - [x] 35-1: *Learning Python*
+  > - [x] 35-2: *Tests and Exceptions*
+  > - [x] 35-3: *Data Input and Output*
+  > - [x] 35-4: *Data Scraping*
+  > - [x] 35-5: *Project - Tech news*
 
   </details>
 
@@ -503,10 +503,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 36: Object Oriented Programming</summary>
 
-  > - [ ] 36-1: *Introduction to object oriented programming*
-  > - [ ] 36-2: *Object oriented programming in practice*
-  > - [ ] 36-3: *Project patterns*
-  > - [ ] 36-4: *Project - Stock Reports*
+  > - [x] 36-1: *Introduction to object oriented programming*
+  > - [x] 36-2: *Object oriented programming in practice*
+  > - [x] 36-3: *Project patterns*
+  > - [x] 36-4: *Project - Stock Reports*
 
   </details>
 
@@ -514,11 +514,11 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 37: Data Structure I</summary>
 
-  > - [ ] 37-1: *Data Structure I - Arrays*
-  > - [ ] 37-2: *Data Structure I - Algorithms Complexity*
-  > - [ ] 37-3: *Recursion and Strategies to solve problems*
-  > - [ ] 37-4: *Sorting and Searching Algorithms*
-  > - [ ] 37-5: *Project - Algorithms*
+  > - [x] 37-1: *Data Structure I - Arrays*
+  > - [x] 37-2: *Data Structure I - Algorithms Complexity*
+  > - [x] 37-3: *Recursion and Strategies to solve problems*
+  > - [x] 37-4: *Sorting and Searching Algorithms*
+  > - [x] 37-5: *Project - Algorithms*
 
   </details>
 
@@ -526,9 +526,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 38: Data Structure II</summary>
 
-  > - [ ] 38-1: *Data Structure II - Hash maps & Dict*
-  > - [ ] 38-2: *Data Structure II - Set*
-  > - [ ] 38-3: *Project - Restaurant Orders*
+  > - [x] 38-1: *Data Structure II - Hash maps & Dict*
+  > - [x] 38-2: *Data Structure II - Set*
+  > - [x] 38-3: *Project - Restaurant Orders*
 
   </details>
 
@@ -536,11 +536,11 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 39: Data Structure III</summary>
 
-  > - [ ] 39-1: *Data Structure III - Stacks*
-  > - [ ] 39-2: *Data Structure III - Deque*
-  > - [ ] 39-3: *Data Structure III - Node and Connected Lists*
-  > - [ ] 39-4: *Data Structure III - Doubly Connected Lists*
-  > - [ ] 39-5: *Project - TING - Trybe Is Not Google*
+  > - [x] 39-1: *Data Structure III - Stacks*
+  > - [x] 39-2: *Data Structure III - Deque*
+  > - [x] 39-3: *Data Structure III - Node and Connected Lists*
+  > - [x] 39-4: *Data Structure III - Doubly Connected Lists*
+  > - [x] 39-5: *Project - TING - Trybe Is Not Google*
 
   </details>
 </details>
@@ -550,12 +550,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilocouto1&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danilocouto1" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilocouto1&show_icons=true&theme=onedark&locale=en" alt="danilocouto1" />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilocouto1&theme=onedark" alt="danilocouto1" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danilocouto1&theme=onedark&row=2&column=3&no-frame=true&margin-h=15&margin-w=15" alt="danilocouto1" />
 </p>
