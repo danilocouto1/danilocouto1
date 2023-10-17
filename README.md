@@ -1,7 +1,7 @@
 # I'm Danilo Couto. Welcome to my portfolio!
 #### *a Software Development Web*
 
-This portfolio refers to projects and personal activities developed by Danilo Couto, currently Junior Developer at [CEDRO](https://www.cedrotech.com/). Formed by [TRYBE](https://www.betrybe.com/) school of web development fullstack.
+This portfolio refers to projects and personal activities developed by Danilo Couto, currently Developer Backend. Formed by [TRYBE](https://www.betrybe.com/) school of web development fullstack.
 - 👨‍💻 My projects can be seen in code by repositories **<a href="https://github.com/danilocouto1?tab=repositories" target="_blank">aqui.</a>**
 - 📫 Contact email: **dansantosalfa@gmail.com** && **dansantos45@hotmail.com**
 
