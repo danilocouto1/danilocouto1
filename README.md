@@ -16,6 +16,7 @@ Bem-vindo ao meu portfólio de desenvolvimento de software! Sou um desenvolvedor
 ### Projetos
 
 - 👨‍💻 Confira meus projetos nos repositórios do GitHub **[aqui](https://github.com/danilocouto1?tab=repositories)**.
+- 👨‍💻 Confira minhas certificações DIO **[aqui](https://www.dio.me/users/dansantos45)**.
 
 ### Contato
 
